@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hugh A. Trenchard",
+    "description": "",
+    "home_page_url": "https://Hugh-Trenchard.github.io",
+    "feed_url": "https://Hugh-Trenchard.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://Hugh-Trenchard.github.io/media/website/Heron2-sharp.png",
+    "author": {
+        "name": "Hugh Trenchard"
+    },
+    "items": [
+        {
+            "id": "https://Hugh-Trenchard.github.io/test.html",
+            "url": "https://Hugh-Trenchard.github.io/test.html",
+            "title": "Test",
+            "author": {
+                "name": "Hugh Trenchard"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-14T17:37:40-07:00",
+            "date_modified": "2026-08-14T17:37:40-07:00"
+        }
+    ]
+}
