@@ -3,22 +3,10 @@
     <title>Hugh Trenchard</title>
     <link href="https://hughtrenchard.ca/feed.xml" rel="self" />
     <link href="https://hughtrenchard.ca" />
-    <updated>2026-08-14T17:37:40-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Hugh Trenchard</name>
     </author>
     <id>https://hughtrenchard.ca</id>
 
-    <entry>
-        <title>Test</title>
-        <author>
-            <name>Hugh Trenchard</name>
-        </author>
-        <link href="https://hughtrenchard.ca/test.html"/>
-        <id>https://hughtrenchard.ca/test.html</id>
-
-        <updated>2026-08-14T17:37:40-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
