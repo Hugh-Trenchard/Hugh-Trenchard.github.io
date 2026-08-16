@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Hugh A. Trenchard</title>
-    <link href="https://Hugh-Trenchard.github.io/feed.xml" rel="self" />
-    <link href="https://Hugh-Trenchard.github.io" />
+    <link href="https://hughtrenchard.ca/feed.xml" rel="self" />
+    <link href="https://hughtrenchard.ca" />
     <updated>2026-08-14T17:37:40-07:00</updated>
     <author>
         <name>Hugh Trenchard</name>
     </author>
-    <id>https://Hugh-Trenchard.github.io</id>
+    <id>https://hughtrenchard.ca</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Hugh Trenchard</name>
         </author>
-        <link href="https://Hugh-Trenchard.github.io/test.html"/>
-        <id>https://Hugh-Trenchard.github.io/test.html</id>
+        <link href="https://hughtrenchard.ca/test.html"/>
+        <id>https://hughtrenchard.ca/test.html</id>
 
         <updated>2026-08-14T17:37:40-07:00</updated>
             <summary></summary>
