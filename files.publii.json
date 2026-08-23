@@ -1,0 +1,557 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "6aef3b3a844b49340f7c4f91aff4b64a"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "85514f933f9e0b82460af63f1a403fa5"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "3c2705aa0503741f2449a69acfa51378"
+    },
+    {
+        "path": "/assets/css/noscript.css",
+        "type": "file",
+        "md5": "efa867a99f5064d6729e4dc2008ad50b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "9e18904741b6e2f1bcde14cf0120e9fb"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/images/overlay.png",
+        "type": "file",
+        "md5": "34aca8cf1dcd5a4077c26c80950d00c6"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "c9771cc3e90e18f5336eedbd0fffb2cf"
+    },
+    {
+        "path": "/assets/js/jquery.scrollex.min.js",
+        "type": "file",
+        "md5": "f89065e3d988006af9791b44561d7c90"
+    },
+    {
+        "path": "/assets/js/jquery.scrolly.min.js",
+        "type": "file",
+        "md5": "1ed5a78bde1476875a40f6b9ff44fc14"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "d5433762aebe47e7d1471db6d18f28ae"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "56233c354bd814758be8bff42f7e13a5"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "4201a626f8c9b614a663b3a1d7d82615"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "7d09abecdcbd61d9f7eed02ad7ed9f3e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "12129ae64db69ed98868da86ad4542b6"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "49db3589f7cc4e2c2fbd61073450b881"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "1183f80a7de1312c6aaed6cb2040d26b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "f4242a99ea504fbf8ddefb40c853de4d"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "de8cf878500c5ec452ae912ddb9c7aaa"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.ttf",
+        "type": "file",
+        "md5": "d38445641a866e80bccf9cb4c4a03de8"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.woff2",
+        "type": "file",
+        "md5": "5f14f683621dbaf2d3644848b74c5a7f"
+    },
+    {
+        "path": "athletic.html",
+        "type": "file",
+        "md5": "9e90af8124bda842a403f0229899afab"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/hugh-trenchard",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hugh-trenchard/index.html",
+        "type": "file",
+        "md5": "eaa752b5687ece2714e5f6fa3e541efb"
+    },
+    {
+        "path": "blog.html",
+        "type": "file",
+        "md5": "3ac157b06d17ccb032992a3979ffd3d7"
+    },
+    {
+        "path": "building-projects-special-assessments.html",
+        "type": "file",
+        "md5": "9dbe52c8e437a3b0842dbb4ff93270da"
+    },
+    {
+        "path": "building-restoration-chargeback-litigation.html",
+        "type": "file",
+        "md5": "fa7d51b73fe9e2f71f6fc5b6e73aca92"
+    },
+    {
+        "path": "CNAME",
+        "type": "file",
+        "md5": "552d8cfd7ce53171922e8c6c8f83e142"
+    },
+    {
+        "path": "creative-work.html",
+        "type": "file",
+        "md5": "62f7905bb21a24339f0e858854b255ba"
+    },
+    {
+        "path": "disclosure-legal-cost-chargeback-litigation.html",
+        "type": "file",
+        "md5": "063ca5f32c01134bb1fb50e09bfc864d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "9a1749e674bdb418b261a9340148de7e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "fbe71b0e53648a10442ec5a6d6128eef"
+    },
+    {
+        "path": "human-rights-99-year-leaseholder-advocacy.html",
+        "type": "file",
+        "md5": "83180125035b62f1b76bd6daded5d32c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "2c4912df690f81aae8a54f1a95d02967"
+    },
+    {
+        "path": "leasehold-litigation-related.html",
+        "type": "file",
+        "md5": "fd5ef1abd136cfd859c6c91f5c813cb6"
+    },
+    {
+        "path": "legal-commentary-policy-reform.html",
+        "type": "file",
+        "md5": "0d1542eb2e4147cf629668dad5ab2564"
+    },
+    {
+        "path": "litigation-documents.html",
+        "type": "file",
+        "md5": "579498a204d29d7f9d6c44c5b64e5c47"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/Botting & Trenchard Video Evidence_55Advocate523.pdf",
+        "type": "file",
+        "md5": "ea28e6cd52a1429d8cd61f4a0b87a597"
+    },
+    {
+        "path": "/media/files/cloud.jpg",
+        "type": "file",
+        "md5": "620bb6ab3b9533cd9477557251cd6f5c"
+    },
+    {
+        "path": "/media/files/Collective_behavior_and_the_identificati.pdf",
+        "type": "file",
+        "md5": "ee8774492d1cb47ea38a9288a2c05d2b"
+    },
+    {
+        "path": "/media/files/Notice of Civil Claim FILED July 22, 2026.pdf",
+        "type": "file",
+        "md5": "31a6ad2b371096a5bf6182965a57f937"
+    },
+    {
+        "path": "/media/files/S265440_Response to Civil Claim_filed August 10 2026.pdf",
+        "type": "file",
+        "md5": "de60ea5befad11579964615a2060450c"
+    },
+    {
+        "path": "/media/files/Trenchard & Perc 2016 Energy Saving Mechanisms BioSystems_147_40.pdf",
+        "type": "file",
+        "md5": "a0b41c6f80816c3c5a3e58bfda415789"
+    },
+    {
+        "path": "/media/files/Trenchard & Perc 2016 Peloton Rebound Effect_PLOS 1.pdf",
+        "type": "file",
+        "md5": "fe8c1fa1a5b5785bc86a8160800e41d2"
+    },
+    {
+        "path": "/media/files/Trenchard 2010 Peloton Hysteresis CAS AAAI Symp_2293-9497-1-PB.pdf",
+        "type": "file",
+        "md5": "ca3e40b4b04c26f6a4d3cad0203dd375"
+    },
+    {
+        "path": "/media/files/Trenchard 2011 Peloton Information Flow_AAAI False Symp FS-11-03.pdf",
+        "type": "file",
+        "md5": "ae6fa2ed790ac9f7206be5a777cda068"
+    },
+    {
+        "path": "/media/files/Trenchard 2013 American Coot.pdf",
+        "type": "file",
+        "md5": "59f95cd71c1e634ba162c09653f43164"
+    },
+    {
+        "path": "/media/files/Trenchard 2015 Peloton Protocooperative Behavior_Appl Math&Comp.pdf",
+        "type": "file",
+        "md5": "5cf918c2b7628a232319d35ca235ed0b"
+    },
+    {
+        "path": "/media/files/Trenchard 2018 When Robots Get Bored_ Iinformation-09-00118.pdf",
+        "type": "file",
+        "md5": "ced4d5ae1ce8ec52a14d40dba29c5106"
+    },
+    {
+        "path": "/media/files/Trenchard 2022 Litigation and Public Policy_J Parl.pdf",
+        "type": "file",
+        "md5": "81bf48690a3a8b57ed84a0e9e71d9c0d"
+    },
+    {
+        "path": "/media/files/Trenchard Brett Perc 2026 Trilobite Tridents_corrected proof in press.pdf",
+        "type": "file",
+        "md5": "7c9fb1c2541b38ac4ef591c7580a13b3"
+    },
+    {
+        "path": "/media/files/Trenchard et al 2015 Deceleration Model Peloton Dynamics.pdf",
+        "type": "file",
+        "md5": "c691b2d4ecdec39ebf160454f46ea4fa"
+    },
+    {
+        "path": "/media/files/Trenchard et al 2017 Trilobite Pelotons_Palaeontology_60_557 (2).pdf",
+        "type": "file",
+        "md5": "15717fb12e78a4eea394f950b6f1d63c"
+    },
+    {
+        "path": "/media/files/Trenchard et al. 2014 Collective Behavior Pelotons_PhysicaA_405_92 (3).pdf",
+        "type": "file",
+        "md5": "6f00712cd69fd5df7762976ba50fd4d9"
+    },
+    {
+        "path": "/media/files/Trenchard Renfree Peters Collective behaviour published.pdf",
+        "type": "file",
+        "md5": "962db4bfeecf3e35002aae988d181101"
+    },
+    {
+        "path": "/media/files/Trenchard, H_Best Evidence_Best Decisions LLM Maj RP_2022.pdf",
+        "type": "file",
+        "md5": "848f2892221754682a37ece5bd5f2321"
+    },
+    {
+        "path": "/media/files/Trenchard_Brett_Perc 2026 Trilobite Tridents_ A model_arXiv version.pdf",
+        "type": "file",
+        "md5": "7598030a3ccdcbb3cbde0c813a4c8c6c"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/cloud-2.jpg",
+        "type": "file",
+        "md5": "620bb6ab3b9533cd9477557251cd6f5c"
+    },
+    {
+        "path": "/media/posts/8/Heron3_best.png",
+        "type": "file",
+        "md5": "754944f558e93518a71fe580cd764621"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/cloud-2-2xl.jpg",
+        "type": "file",
+        "md5": "5a99cc3dae9d5e8e6d738ca2ffacfbd0"
+    },
+    {
+        "path": "/media/posts/8/responsive/cloud-2-lg.jpg",
+        "type": "file",
+        "md5": "5a99cc3dae9d5e8e6d738ca2ffacfbd0"
+    },
+    {
+        "path": "/media/posts/8/responsive/cloud-2-md.jpg",
+        "type": "file",
+        "md5": "5a99cc3dae9d5e8e6d738ca2ffacfbd0"
+    },
+    {
+        "path": "/media/posts/8/responsive/cloud-2-sm.jpg",
+        "type": "file",
+        "md5": "dbeefffaae85255e937b61b49ee9cce8"
+    },
+    {
+        "path": "/media/posts/8/responsive/cloud-2-xl.jpg",
+        "type": "file",
+        "md5": "5a99cc3dae9d5e8e6d738ca2ffacfbd0"
+    },
+    {
+        "path": "/media/posts/8/responsive/cloud-2-xs.jpg",
+        "type": "file",
+        "md5": "77863e6c8087c825484a605093e644e9"
+    },
+    {
+        "path": "/media/posts/8/responsive/Heron3_best-2xl.png",
+        "type": "file",
+        "md5": "3d5f50a75cbc5f0c3ce7d4193a48dfd8"
+    },
+    {
+        "path": "/media/posts/8/responsive/Heron3_best-lg.png",
+        "type": "file",
+        "md5": "ad5ef31e76fd0d904a8248c56dc6acd8"
+    },
+    {
+        "path": "/media/posts/8/responsive/Heron3_best-md.png",
+        "type": "file",
+        "md5": "5ec211e45ee30c1d4653c81399dab13c"
+    },
+    {
+        "path": "/media/posts/8/responsive/Heron3_best-sm.png",
+        "type": "file",
+        "md5": "6479bd529df021c50bed60d1983319e8"
+    },
+    {
+        "path": "/media/posts/8/responsive/Heron3_best-xl.png",
+        "type": "file",
+        "md5": "3d5f50a75cbc5f0c3ce7d4193a48dfd8"
+    },
+    {
+        "path": "/media/posts/8/responsive/Heron3_best-xs.png",
+        "type": "file",
+        "md5": "5d7836e50f217df5e6195b51dd656ddb"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Heron_sharp1-2xl-2xl-2xl-2xl.png",
+        "type": "file",
+        "md5": "27d5b2e247b26afe63b41931fe83b298"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Heron_sharp1-2xl-2xl-2xl-2xl-2xl.png",
+        "type": "file",
+        "md5": "b6bc534f9ddaab72eb3662a396773ae8"
+    },
+    {
+        "path": "/media/website/responsive/Heron_sharp1-2xl-2xl-2xl-2xl-lg.png",
+        "type": "file",
+        "md5": "b6bc534f9ddaab72eb3662a396773ae8"
+    },
+    {
+        "path": "/media/website/responsive/Heron_sharp1-2xl-2xl-2xl-2xl-md.png",
+        "type": "file",
+        "md5": "991c54acbfbac18779c73554cdf9fcd4"
+    },
+    {
+        "path": "/media/website/responsive/Heron_sharp1-2xl-2xl-2xl-2xl-sm.png",
+        "type": "file",
+        "md5": "9ab32c17f5ef75f963ee464ab852e6a0"
+    },
+    {
+        "path": "/media/website/responsive/Heron_sharp1-2xl-2xl-2xl-2xl-xl.png",
+        "type": "file",
+        "md5": "b6bc534f9ddaab72eb3662a396773ae8"
+    },
+    {
+        "path": "/media/website/responsive/Heron_sharp1-2xl-2xl-2xl-2xl-xs.png",
+        "type": "file",
+        "md5": "dc00682591014190e6fe4eb4c9bc1e4d"
+    },
+    {
+        "path": "miscellaneous.html",
+        "type": "file",
+        "md5": "c2339634a76bd288e27fa8c62089401e"
+    },
+    {
+        "path": "music.html",
+        "type": "file",
+        "md5": "09072642aac3ac3f71ea90cd242b3dc9"
+    },
+    {
+        "path": "paintings.html",
+        "type": "file",
+        "md5": "3af3d4d425ffae5bf034c978f7b15f62"
+    },
+    {
+        "path": "Peloton protocooperative behavior Appl Math & Comp.pdf",
+        "type": "file",
+        "md5": "ca3a98cf72c60e39f1e89eae1ae53ee4"
+    },
+    {
+        "path": "photography.html",
+        "type": "file",
+        "md5": "81e4e6305258fd2b7ba2b4c8d5fbe6f9"
+    },
+    {
+        "path": "poetry.html",
+        "type": "file",
+        "md5": "cc04774784614f337198533fb339b539"
+    },
+    {
+        "path": "published-papers.html",
+        "type": "file",
+        "md5": "307a8135178f7d07752f04de93e4ade9"
+    },
+    {
+        "path": "research.html",
+        "type": "file",
+        "md5": "8e3cb8823a2f8b506f3fdd0c4ea2b2f3"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "8b3790565ad85213f00608ca328a1781"
+    },
+    {
+        "path": "s265440-2026-legal-cost-enforcement-cpl.html",
+        "type": "file",
+        "md5": "48c9bd1926d1818a6847ded7186910ec"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "a77ee4b298f12b69ab08106db22b1f92"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "19cf39d79169712548f65eb15b77d6c5"
+    },
+    {
+        "path": "Trenchard 2013 American Coot.pdf",
+        "type": "file",
+        "md5": "59f95cd71c1e634ba162c09653f43164"
+    },
+    {
+        "path": "westsea-petition-operating-expenses-legal-costs.html",
+        "type": "file",
+        "md5": "d956719089398786812a22caa92d1560"
+    }
+]
