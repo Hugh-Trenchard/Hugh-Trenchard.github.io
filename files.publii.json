@@ -265,9 +265,19 @@
         "md5": "31a6ad2b371096a5bf6182965a57f937"
     },
     {
+        "path": "/media/files/painting_v12_framed (1).jpg",
+        "type": "file",
+        "md5": "05e55324b47d13862e0f85dd8b66b825"
+    },
+    {
         "path": "/media/files/S265440_Response to Civil Claim_filed August 10 2026.pdf",
         "type": "file",
         "md5": "de60ea5befad11579964615a2060450c"
+    },
+    {
+        "path": "/media/files/Saving Energy.jpg",
+        "type": "file",
+        "md5": "c52631fc2e18196a2c9b38219e1647aa"
     },
     {
         "path": "/media/files/Trenchard & Perc 2016 Energy Saving Mechanisms BioSystems_147_40.pdf",
@@ -345,9 +355,454 @@
         "md5": "7598030a3ccdcbb3cbde0c813a4c8c6c"
     },
     {
+        "path": "/media/files/__AI colored version of_Enwrapped painting.jpg",
+        "type": "file",
+        "md5": "15f43eeccfd5b9bd3aca9cb26e5615f5"
+    },
+    {
         "path": "media/posts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/Emergence_ai-veils-2.jpeg",
+        "type": "file",
+        "md5": "36054602b8a31efb302f75b42638d4a7"
+    },
+    {
+        "path": "media/posts/13/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/gallery/emergence-thumbnail.jpg",
+        "type": "file",
+        "md5": "26bc861eb002f229930ba2b76e405a7e"
+    },
+    {
+        "path": "/media/posts/13/gallery/emergence.jpg",
+        "type": "file",
+        "md5": "7cb9054810ed7230e3c9495082a742ba"
+    },
+    {
+        "path": "/media/posts/13/gallery/gc_original-thumbnail.jpg",
+        "type": "file",
+        "md5": "5535213dd6d86d9449af4c4c5d15713a"
+    },
+    {
+        "path": "/media/posts/13/gallery/gc_original.jpg",
+        "type": "file",
+        "md5": "0af334ec8ba65199e1244f409f884c4a"
+    },
+    {
+        "path": "/media/posts/13/gallery/Global-Consciousness_Gemini2.jpeg",
+        "type": "file",
+        "md5": "2356e02d84985ad49b55f397cbad2454"
+    },
+    {
+        "path": "/media/posts/13/gallery/Painting-2-thumbnail.jpg",
+        "type": "file",
+        "md5": "70fc68ca19a0dc926fb61d6e953cdc10"
+    },
+    {
+        "path": "/media/posts/13/gallery/Painting-2.jpg",
+        "type": "file",
+        "md5": "39cc6e16df7d486fb9029401eeeca930"
+    },
+    {
+        "path": "/media/posts/13/gallery/Painting-Saving-Energy-with-lines-of-symmetry-thumbnail.jpg",
+        "type": "file",
+        "md5": "8a689b2d680144832931b841c0d94652"
+    },
+    {
+        "path": "/media/posts/13/gallery/Painting-Saving-Energy-with-lines-of-symmetry.jpg",
+        "type": "file",
+        "md5": "927e2bfa5e98c42cda03e38b27860400"
+    },
+    {
+        "path": "/media/posts/13/gallery/people-pot-2009.jpg",
+        "type": "file",
+        "md5": "3f876bd12d92b4d24df3dd37088712f6"
+    },
+    {
+        "path": "/media/posts/13/gallery/Seven-figures-within-luminous-bubbles.png",
+        "type": "file",
+        "md5": "e87601cd84346a1aca0299a5d02f0137"
+    },
+    {
+        "path": "/media/posts/13/gallery/Three-Trees_original-2-thumbnail.jpg",
+        "type": "file",
+        "md5": "39dcf62fa5e0878246fabd54a67b7f4a"
+    },
+    {
+        "path": "/media/posts/13/gallery/Three-Trees_original-2.jpg",
+        "type": "file",
+        "md5": "dcc032ff8e4ecc14be4c07d88e2463c4"
+    },
+    {
+        "path": "/media/posts/13/gallery/_global-consciousness-original_black-and-white2-thumbnail.jpeg",
+        "type": "file",
+        "md5": "9ed0eff779af884fd48c507c262561ae"
+    },
+    {
+        "path": "/media/posts/13/gallery/_global-consciousness-original_black-and-white2.jpeg",
+        "type": "file",
+        "md5": "aee840f4a66b20377b721b15697f37af"
+    },
+    {
+        "path": "/media/posts/13/gc_original.jpg",
+        "type": "file",
+        "md5": "0af334ec8ba65199e1244f409f884c4a"
+    },
+    {
+        "path": "/media/posts/13/Global-Consciousness_Gemini2.jpeg",
+        "type": "file",
+        "md5": "2356e02d84985ad49b55f397cbad2454"
+    },
+    {
+        "path": "/media/posts/13/people-pot-2009.jpg",
+        "type": "file",
+        "md5": "3f876bd12d92b4d24df3dd37088712f6"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/Emergence_ai-veils-2-2xl.jpeg",
+        "type": "file",
+        "md5": "ef519147b668032e1acd4cafe268d74a"
+    },
+    {
+        "path": "/media/posts/13/responsive/Emergence_ai-veils-2-lg.jpeg",
+        "type": "file",
+        "md5": "afad1d6389397a6e43a79fceec1e2509"
+    },
+    {
+        "path": "/media/posts/13/responsive/Emergence_ai-veils-2-md.jpeg",
+        "type": "file",
+        "md5": "e2b6b3f9a9877cee35a7c72e4abf15aa"
+    },
+    {
+        "path": "/media/posts/13/responsive/Emergence_ai-veils-2-sm.jpeg",
+        "type": "file",
+        "md5": "a896027a1b8d7eeda6e45e3f7ffb5376"
+    },
+    {
+        "path": "/media/posts/13/responsive/Emergence_ai-veils-2-xl.jpeg",
+        "type": "file",
+        "md5": "5ae343b7166fca482680fe051c088687"
+    },
+    {
+        "path": "/media/posts/13/responsive/Emergence_ai-veils-2-xs.jpeg",
+        "type": "file",
+        "md5": "94f3efa8122b4e2fe1cfdd8067274af4"
+    },
+    {
+        "path": "/media/posts/13/responsive/gc_original-2xl.jpg",
+        "type": "file",
+        "md5": "e6acf49f0e756fe8c8f9c62a7469d8f6"
+    },
+    {
+        "path": "/media/posts/13/responsive/gc_original-lg.jpg",
+        "type": "file",
+        "md5": "b167709d127ea1c6e40bd36549600678"
+    },
+    {
+        "path": "/media/posts/13/responsive/gc_original-md.jpg",
+        "type": "file",
+        "md5": "fc143c9382c6d3289f9ecbc95d3c0943"
+    },
+    {
+        "path": "/media/posts/13/responsive/gc_original-sm.jpg",
+        "type": "file",
+        "md5": "0ed56fb36f65b2ac0067f68cf73d50f3"
+    },
+    {
+        "path": "/media/posts/13/responsive/gc_original-xl.jpg",
+        "type": "file",
+        "md5": "e65506e7f968dce02b8da58086633d79"
+    },
+    {
+        "path": "/media/posts/13/responsive/gc_original-xs.jpg",
+        "type": "file",
+        "md5": "2a1d46056317513e78fe4d59dc86e546"
+    },
+    {
+        "path": "/media/posts/13/responsive/Global-Consciousness_Gemini2-2xl.jpeg",
+        "type": "file",
+        "md5": "ffa79a2c6a61f88ed019ea4a26e5a730"
+    },
+    {
+        "path": "/media/posts/13/responsive/Global-Consciousness_Gemini2-lg.jpeg",
+        "type": "file",
+        "md5": "550c8dc132768c484927812f079a96c2"
+    },
+    {
+        "path": "/media/posts/13/responsive/Global-Consciousness_Gemini2-md.jpeg",
+        "type": "file",
+        "md5": "ee03750984907e854387dae4481b12ba"
+    },
+    {
+        "path": "/media/posts/13/responsive/Global-Consciousness_Gemini2-sm.jpeg",
+        "type": "file",
+        "md5": "81dafb3ae27968e7c213795f7884493b"
+    },
+    {
+        "path": "/media/posts/13/responsive/Global-Consciousness_Gemini2-xl.jpeg",
+        "type": "file",
+        "md5": "b4fb36e38ca7a5f5750aab5b325d80af"
+    },
+    {
+        "path": "/media/posts/13/responsive/Global-Consciousness_Gemini2-xs.jpeg",
+        "type": "file",
+        "md5": "94277ae4572ec6ba9a63975c57b71e8b"
+    },
+    {
+        "path": "/media/posts/13/responsive/people-pot-2009-2xl.jpg",
+        "type": "file",
+        "md5": "e3c336eac62ba300013f44b68f50521a"
+    },
+    {
+        "path": "/media/posts/13/responsive/people-pot-2009-lg.jpg",
+        "type": "file",
+        "md5": "e3c336eac62ba300013f44b68f50521a"
+    },
+    {
+        "path": "/media/posts/13/responsive/people-pot-2009-md.jpg",
+        "type": "file",
+        "md5": "e3c336eac62ba300013f44b68f50521a"
+    },
+    {
+        "path": "/media/posts/13/responsive/people-pot-2009-sm.jpg",
+        "type": "file",
+        "md5": "82c37c8ed7820071bb27a49c9d7874a7"
+    },
+    {
+        "path": "/media/posts/13/responsive/people-pot-2009-xl.jpg",
+        "type": "file",
+        "md5": "e3c336eac62ba300013f44b68f50521a"
+    },
+    {
+        "path": "/media/posts/13/responsive/people-pot-2009-xs.jpg",
+        "type": "file",
+        "md5": "ed9ef94aa8d8289e0a4e278367b61633"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-2-2xl.jpg",
+        "type": "file",
+        "md5": "05b11529a8972e630f39df3cbc72a685"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-2-lg.jpg",
+        "type": "file",
+        "md5": "cfbd578906a4960df27d992ec2f5d3ab"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-2-md.jpg",
+        "type": "file",
+        "md5": "3530daa4ed9b92152a784f3d9b43a190"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-2-sm.jpg",
+        "type": "file",
+        "md5": "75ca45a6358ba14aa9ff692d4d7f30c3"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-2-xl.jpg",
+        "type": "file",
+        "md5": "7d2927af25202a97a2ba1c022bb274bd"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-2-xs.jpg",
+        "type": "file",
+        "md5": "f16ec36fa015de31c6e15838f76c8f2e"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026-2xl.jpeg",
+        "type": "file",
+        "md5": "7ef6fc20853d66d68441ceafdc453044"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026-lg.jpeg",
+        "type": "file",
+        "md5": "0dc6349faac31a45e9b1c5e30974f254"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026-md.jpeg",
+        "type": "file",
+        "md5": "2b72ec467045d4247f08c16aaf66c8dd"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026-sm.jpeg",
+        "type": "file",
+        "md5": "a846526109e3a16d2e844bb09e1d8335"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026-xl.jpeg",
+        "type": "file",
+        "md5": "f951626902e318dc2496d89dffc61089"
+    },
+    {
+        "path": "/media/posts/13/responsive/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026-xs.jpeg",
+        "type": "file",
+        "md5": "42d4257d54f23bbf62e65aaa25f5a81e"
+    },
+    {
+        "path": "/media/posts/13/responsive/Seven-figures-within-luminous-bubbles-2xl.png",
+        "type": "file",
+        "md5": "a0d5216c6cea0c4d2846567c8b07c04d"
+    },
+    {
+        "path": "/media/posts/13/responsive/Seven-figures-within-luminous-bubbles-lg.png",
+        "type": "file",
+        "md5": "1d93a90698b037243db909de1764da41"
+    },
+    {
+        "path": "/media/posts/13/responsive/Seven-figures-within-luminous-bubbles-md.png",
+        "type": "file",
+        "md5": "48907a4b4eb40b706d662f3168859778"
+    },
+    {
+        "path": "/media/posts/13/responsive/Seven-figures-within-luminous-bubbles-sm.png",
+        "type": "file",
+        "md5": "58bd1695f897ed4ed799a1510cfeb849"
+    },
+    {
+        "path": "/media/posts/13/responsive/Seven-figures-within-luminous-bubbles-xl.png",
+        "type": "file",
+        "md5": "a0d5216c6cea0c4d2846567c8b07c04d"
+    },
+    {
+        "path": "/media/posts/13/responsive/Seven-figures-within-luminous-bubbles-xs.png",
+        "type": "file",
+        "md5": "c8855ba092540f4cb67c87d51a7ef628"
+    },
+    {
+        "path": "/media/posts/13/responsive/Three-Trees-daytime_best-2xl.jpeg",
+        "type": "file",
+        "md5": "e3306026e427af2185e25002b668f6c0"
+    },
+    {
+        "path": "/media/posts/13/responsive/Three-Trees-daytime_best-lg.jpeg",
+        "type": "file",
+        "md5": "56b61cc6f842efdeca1c95a088bc2e93"
+    },
+    {
+        "path": "/media/posts/13/responsive/Three-Trees-daytime_best-md.jpeg",
+        "type": "file",
+        "md5": "8b5531173f7721e5d07072b313892015"
+    },
+    {
+        "path": "/media/posts/13/responsive/Three-Trees-daytime_best-sm.jpeg",
+        "type": "file",
+        "md5": "7c23916003937125558930638dbe57a3"
+    },
+    {
+        "path": "/media/posts/13/responsive/Three-Trees-daytime_best-xl.jpeg",
+        "type": "file",
+        "md5": "273cfe8431d3cfce8cdd2c872016b6b4"
+    },
+    {
+        "path": "/media/posts/13/responsive/Three-Trees-daytime_best-xs.jpeg",
+        "type": "file",
+        "md5": "2456ae872b5e0258b24a1969d62aeb3c"
+    },
+    {
+        "path": "/media/posts/13/responsive/_global-consciousness-original_black-and-white2-2xl.jpeg",
+        "type": "file",
+        "md5": "a4dd1096651909f0f789663ab9304860"
+    },
+    {
+        "path": "/media/posts/13/responsive/_global-consciousness-original_black-and-white2-lg.jpeg",
+        "type": "file",
+        "md5": "b8be4d86535a608f051805b22ee66011"
+    },
+    {
+        "path": "/media/posts/13/responsive/_global-consciousness-original_black-and-white2-md.jpeg",
+        "type": "file",
+        "md5": "2fb36b3399ac190d3ca3ba678dc5b8d7"
+    },
+    {
+        "path": "/media/posts/13/responsive/_global-consciousness-original_black-and-white2-sm.jpeg",
+        "type": "file",
+        "md5": "b34494913aa7676fe4685d0338761ec3"
+    },
+    {
+        "path": "/media/posts/13/responsive/_global-consciousness-original_black-and-white2-xl.jpeg",
+        "type": "file",
+        "md5": "17997f6314a7897fa642d990f16db0af"
+    },
+    {
+        "path": "/media/posts/13/responsive/_global-consciousness-original_black-and-white2-xs.jpeg",
+        "type": "file",
+        "md5": "7931b0d688eaa6722f37e9aa9d7d36ea"
+    },
+    {
+        "path": "/media/posts/13/responsive/__AI-colored-version-of_Enwrapped-painting-2-2xl.jpg",
+        "type": "file",
+        "md5": "d025cdc2c9f8a6c9e25dced50d3403fc"
+    },
+    {
+        "path": "/media/posts/13/responsive/__AI-colored-version-of_Enwrapped-painting-2-lg.jpg",
+        "type": "file",
+        "md5": "b0faccc4543d7e4c035655185af62345"
+    },
+    {
+        "path": "/media/posts/13/responsive/__AI-colored-version-of_Enwrapped-painting-2-md.jpg",
+        "type": "file",
+        "md5": "c7b9fdb5d383eea404bc6ecd36e5e6c4"
+    },
+    {
+        "path": "/media/posts/13/responsive/__AI-colored-version-of_Enwrapped-painting-2-sm.jpg",
+        "type": "file",
+        "md5": "6210aee19bb08951c8369ec254e4eb7e"
+    },
+    {
+        "path": "/media/posts/13/responsive/__AI-colored-version-of_Enwrapped-painting-2-xl.jpg",
+        "type": "file",
+        "md5": "d025cdc2c9f8a6c9e25dced50d3403fc"
+    },
+    {
+        "path": "/media/posts/13/responsive/__AI-colored-version-of_Enwrapped-painting-2-xs.jpg",
+        "type": "file",
+        "md5": "c1ca567608ac1a23f9f22ab36464e104"
+    },
+    {
+        "path": "/media/posts/13/Saving-Energy-2.jpg",
+        "type": "file",
+        "md5": "d1401ab2b443a2e1785a7f35e16938fc"
+    },
+    {
+        "path": "/media/posts/13/Saving-Energy-ai_veiled_topfigure-adjusted-Nov-21-2026.jpeg",
+        "type": "file",
+        "md5": "6cdf62384d82005220c1edee63dff992"
+    },
+    {
+        "path": "/media/posts/13/Seven-figures-within-luminous-bubbles.png",
+        "type": "file",
+        "md5": "e87601cd84346a1aca0299a5d02f0137"
+    },
+    {
+        "path": "/media/posts/13/Three-Trees-daytime_best.jpeg",
+        "type": "file",
+        "md5": "d6a83fdf6f0b1f640a2c3e46cf628d55"
+    },
+    {
+        "path": "/media/posts/13/_global-consciousness-original_black-and-white2.jpeg",
+        "type": "file",
+        "md5": "aee840f4a66b20377b721b15697f37af"
+    },
+    {
+        "path": "/media/posts/13/__AI-colored-version-of_Enwrapped-painting-2.jpg",
+        "type": "file",
+        "md5": "15f43eeccfd5b9bd3aca9cb26e5615f5"
     },
     {
         "path": "media/posts/8",
@@ -1112,7 +1567,7 @@
     {
         "path": "paintings.html",
         "type": "file",
-        "md5": "3af3d4d425ffae5bf034c978f7b15f62"
+        "md5": "1d7cdece6406d6e26120645936bf304c"
     },
     {
         "path": "Peloton protocooperative behavior Appl Math & Comp.pdf",
@@ -1152,7 +1607,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "dddf5e43060cb15cba2903bd944f6828"
+        "md5": "c903899e0b187b032e6badc8f77d3570"
     },
     {
         "path": "sitemap.xsl",
